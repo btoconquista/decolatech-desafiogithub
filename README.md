@@ -1,2 +1,2 @@
-# decolatech-desafiogithub
-desafio de projeto sobre git-github
+# Desafio de projeto sobre Git/Github DecolaTech
+Repositório criado para o desafio de projeto
